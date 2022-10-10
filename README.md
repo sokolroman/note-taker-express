@@ -37,7 +37,7 @@ The following image shows the web application's appearance and functionality:
 <img src="Screen Shot 2022-10-10 at 18.46.35.png" alt="Alt text" title="Optional title">
 
 ## Deployed Application using glitch.me
-[notes using glitch.me]("https://scratched-foam-maiasaura.glitch.me/notes")
+* https://scratched-foam-maiasaura.glitch.me/notes
 
 
 - - -
