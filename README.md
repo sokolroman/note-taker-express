@@ -1,4 +1,20 @@
 # Note Taker Starter Code
+
+
+## Web app used to store notes based on user imput. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code and using express.js for server operations.
+
+
+## User Story
+
+```
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
+```
+
+## Acceptance Criteria
+
+```
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
@@ -12,9 +28,17 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-## Deployed Application 
+```
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+<img src="Screen Shot 2022-10-10 at 18.46.35.png" alt="Alt text" title="Optional title">
+
+## Deployed Application using glitch.me
 [notes using glitch.me]("https://scratched-foam-maiasaura.glitch.me/notes")
 
-## Preview
-![screenshot](Screen Shot 2022-10-10 at 18.46.35.png)
-![NOTES](/Screen Shot 2022-10-10 at 18.46.35.png?raw=true "Employee Data title")
+
+- - -
+2022 Roman Sokol
