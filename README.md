@@ -16,4 +16,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 [notes using glitch.me]("https://scratched-foam-maiasaura.glitch.me/notes")
 
 ## Preview
-![screenshot](/Screen Shot 2022-10-10 at 18.46.35.png)
+![screenshot](Screen Shot 2022-10-10 at 18.46.35.png)
+![NOTES](/Screen Shot 2022-10-10 at 18.46.35.png?raw=true "Employee Data title")
